@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  background: #a6a9c7;
   background-size: cover;
   left: 0;
   right: 0;
@@ -33,11 +33,11 @@ body::before {
 }
 
 a {
-  color: #12d640;
+  color: #b4c095;
 }
 
 a:hover {
-  color: #12d640;
+  color: #b4c095;
   text-decoration: none;
 }
 
