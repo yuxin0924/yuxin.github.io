@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: #454b9f;
   color: #fff;
   line-height: 1;
   margin-right: 8px;
@@ -214,13 +214,13 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: rgba(0, 0, 0, 0.7);
+  background:#454b9f;
   transition: ease-in-out 0s;
   opacity: 0;
   visibility: hidden;
   border-radius: 10px;
   padding: 10px 0;
-  border: 2px solid rgba(255, 255, 255, 0.12);
+  border: 2px solid #454b9f;
 }
 
 .mobile-nav * {
@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(9, 9, 9, 0.6);
+  background: #454b9f;
   overflow: hidden;
   display: none;
   transition: ease-in-out 0s;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background:#454b9f;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -327,7 +327,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0);
+  background:#454b9f;
   padding: 30px;
 }
 
@@ -482,7 +482,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #09203a;
+  background: #454b9f;
   transition: ease-in-out 0.3s;
 }
 
@@ -503,7 +503,7 @@ section .container {
 }
 
 .interests .icon-box:hover {
-  background: #042b56eb;
+  background:#454b9f;
 }
 
 /*--------------------------------------------------------------
@@ -520,7 +520,7 @@ section .container {
   margin: -40px 0 0 40px;
   position: relative;
   z-index: 2;
-  border: 6px solid rgba(255, 255, 255, 0.12);
+  border: 6px solid #454b9f;
 }
 
 .testimonials .testimonial-item h3 {
@@ -558,7 +558,7 @@ section .container {
   font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
-  background: rgba(255, 255, 255, 0.1);
+  background:#454b9f;
   position: relative;
   border-radius: 6px;
   position: relative;
@@ -655,7 +655,7 @@ section .container {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  background: #09203a;
+  background: #454b9f;
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
   margin: 10px
@@ -710,7 +710,7 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #042e5f;
+  background: #454b9f;
   border-color: #1c7d32;
 }
 
@@ -755,7 +755,7 @@ section .container {
   line-height: 1;
   text-transform: uppercase;
   color: #fff;
-  background: rgba(255, 255, 255, 0.1);
+  background: #454b9f;
   margin: 0 3px 10px 3px;
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
@@ -774,12 +774,12 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(0, 0, 0, 0.6);
+  background: #454b9f;
 }
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: #454b9f;
   position: absolute;
   left: 30px;
   right: 30px;
